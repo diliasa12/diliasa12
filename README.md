@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="./trojanhorse.jpg"  />
 </div>
 
 ###
@@ -46,15 +46,15 @@
 ###
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=diliasa12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=diliasa12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=diliasa12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
 ---
+
 [![](https://komarev.com/ghpvc/?username=diliasa12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ###
